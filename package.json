@@ -1,6 +1,7 @@
 {
   "name": "react-crud",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
